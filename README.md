@@ -6,7 +6,7 @@ BARK stands for BloodHound Attack Research Kit. It is a PowerShell script built 
 
 BARK requires no third party dependencies. BARK's functions are designed to be as simple and maintainable as possible. Most functions are very simple wrappers for making requests to various REST API endpoints. BARK's basic functions do not even require each other - you can pull almost any BARK function out of BARK and it will work perfectly as a standalone function in your own scripts.
 
-***Barking***  barking is a versatile tool for Bloodhounds, aiding in their effectiveness as trackers and enhancing their ability to communicate with both humans and other dogs.
+***'Barking'*** is a versatile tool for Bloodhounds, aiding in their effectiveness as trackers and enhancing their ability to communicate with both humans and other dogs.
 
 Meta Functions
 --------------
