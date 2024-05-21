@@ -1,4 +1,4 @@
-### BARKING ---> BARK
+### Barking through Bark
 
 ![bark](https://github.com/Sulaimannabdul/Barking/assets/151133481/ee400007-4db2-4826-8fd4-78bc8989d572)
 
@@ -11,7 +11,7 @@ BARK requires no third party dependencies. BARK's functions are designed to be a
 Meta Functions
 --------------
 * ``Invoke-ExternalAbuseTest`` performs all abuse validation tests that can be executed by holding an MS Graph app role.
-* ``Invoke-AllAzureADAbuseTests`` performs all abuse validation tests that can be executed by principals granted AzureAD admin roles. Returns an object describing which privileges were successful at performing each abuse test.
+* ``Invoke-AllAzureADAbuseTests`` performs all abuse validation tests that can be executed by principals granted AzureAD admin roles.
 * ``ConvertTo-Targets`` is used for massaging output from the Invoke-<type>Tests functions for usage in another platform.
 
 ![Apache_Bloodhound-Logo wine](https://github.com/Sulaimannabdul/Barking/assets/151133481/4a71bcaa-f5e8-4e81-bb1b-944d189cfc9d)
